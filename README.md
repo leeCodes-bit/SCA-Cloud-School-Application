@@ -38,5 +38,7 @@ Before running this app locally make sure you have the following software instal
 26. I updated the readme file
 27. Then push to the main branch on github
 
+NB: I didn't store the docker related files in a docker folder because the docker file should be in the root of my application folder so I can view the image and run the container.
+
 
 Link to dockerhub repo [https://hub.docker.com/repository/docker/eel30/sca-node-app](https://hub.docker.com/repository/docker/eel30/sca-node-app)
